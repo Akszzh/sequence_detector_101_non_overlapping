@@ -39,7 +39,7 @@ Non-overlapping detection ensures that consecutive sequences are detected withou
 
 ### **Simulation / Waveform**
 
-[![Simulation Waveform](images/SEQUENCE_DETECTOR_NON_OVERLAPPING_101.png)  ](https://github.com/Akszzh/sequence_detector_101_non_overlapping/blob/c7aba0ee74f17589e48d0b425c1458a20649ed15/SEQUENCE_DETECTOR_NON_OVERLAPPING_101%20(2).png)
+![Simulation Waveform](images/waveform.png)
 *Figure: Output waveform showing detection of the 101 sequence.*
 
 **Observations:**
